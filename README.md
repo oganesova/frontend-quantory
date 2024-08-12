@@ -1,4 +1,4 @@
-# MyApp
+# Quantory-frontend
 
 My REACT app is a web application with user authentication and profile management features. It is built with React for the frontend and provides a user-friendly interface with a responsive design.
 
